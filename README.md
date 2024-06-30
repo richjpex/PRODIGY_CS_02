@@ -9,7 +9,7 @@ The algorithm first swaps the red and blue channels, and then swaps the blue and
 
 Install dependencies
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 
 Run the program
