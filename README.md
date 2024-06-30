@@ -6,6 +6,12 @@ Develop a simple image encryption tool using pixel manipulation. You can perform
 The algorithm first swaps the red and blue channels, and then swaps the blue and green channels during encryption. For decryption, it reverses the operations by swapping the blue and green channels back, and then swapping the red and blue channels back.
 
 ## Usage
+
+Install dependencies
+
+`pip install requirements.txt`
+
+
 Run the program
 
 To encrypt image:
